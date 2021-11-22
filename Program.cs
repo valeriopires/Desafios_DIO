@@ -30,6 +30,8 @@
  (cuja contagem se inicia no número um) e R é uma das três reações possíveis de Sheldon: "Bazinga!", 
  "Raj trapaceou!", ou "De novo!".
 */
+//Alteração de Teste
+
 using System;
 
 namespace DesafioBazinga
