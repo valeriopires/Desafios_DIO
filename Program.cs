@@ -31,7 +31,6 @@
  "Raj trapaceou!", ou "De novo!".
 */
 //Alteração de Teste
-
 using System;
 
 namespace DesafioBazinga
